@@ -1,0 +1,38 @@
+.top-images{
+  width: 200px;
+  height: 200px;
+}
+.second-section{
+background-color: bisque;
+}
+.myimage {
+  border-radius: 100%;
+  border-style: circle;
+  margin-left: 725px;
+  margin-top: 100px;
+}
+.intro{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    height: auto;
+    background-color: aqua;
+    margin-bottom: 0px;
+    padding-bottom: 190px;
+}
+
+.full-intro{
+  position: relative;
+    font-size: 20px;
+    font-style: italic;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 100px;
+    margin-bottom: 0px;
+}
+
+.cat{
+  margin-left: 300px;
+  margin-bottom: 50px;
+}
