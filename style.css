@@ -36,3 +36,12 @@ background-color: bisque;
   margin-left: 300px;
   margin-bottom: 50px;
 }
+
+.footer{
+  background-color: aqua;
+  text-align: center;
+  padding: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
